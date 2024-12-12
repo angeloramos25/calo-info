@@ -1,22 +1,18 @@
 TERMS OF SERVICE
 ================
 
-**
-
 **Last updated** **December 11, 2024**
 
   
 
   
 
-**
 
 AGREEMENT TO OUR LEGAL TERMS
 ----------------------------
 
-**
 
-We are Ambia Design LLC ("**Company**," "**we**," "**us**," "**our**"), a company registered in California, United States at \_\_\_\_\_\_\_\_\_\_, Castaic, CA 91384.
+We are Ambia Design LLC ("**Company**," "**we**," "**us**," "**our**"), a company registered in California, United States at Castaic, CA 91384.
 
   
 
@@ -28,7 +24,7 @@ Calo is an AI-powered calorie tracker designed to help Users estimate the nutrit
 
   
 
-You can contact us by email at ambi.design.co@gmail.com or by mail to \_\_\_\_\_\_\_\_\_\_, Castaic, CA 91384, United States.
+You can contact us by email at ambi.design.co@gmail.com or by mail to Castaic, CA 91384, United States.
 
   
 
